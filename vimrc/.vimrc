@@ -29,6 +29,8 @@ Plugin 'fholgado/minibufexpl.vim' "多文档编辑标签栏
 Plugin 'godlygeek/tabular' "markdown语法高亮
 Plugin 'Rykka/riv.vim' "reStructuredText语法即时预览
 Plugin 'Rykka/InstantRst' "instantRst
+Plugin 'chr4/nginx.vim' "nginx 配置文件美化的插件
+Plugin 'chr4/sslsecure.vim' "ssl/tls 配置不安全的时候，高亮提示
 
 " plugin from http://vim-scripts.org/vim/scripts.html
 " 指定Github中vim-scripts仓库中的插件，直接指定插件名称即可，插件明中的空格使用“-”代替
